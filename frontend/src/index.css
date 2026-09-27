@@ -1,0 +1,20 @@
+/* Minimal reset. Replace with your own styles or a CSS framework. */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    sans-serif;
+  background: #fff;
+  color: #111;
+}
+
+#root {
+  min-height: 100vh;
+}

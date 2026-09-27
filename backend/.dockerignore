@@ -1,0 +1,45 @@
+# Files NOT to upload to Railway / NOT to bake into the production image.
+# Railway auto-excludes a few things (.git, node_modules, .venv, *.cache),
+# but it does NOT exclude `venv`, `env`, `.env*`, editor files, or pyc caches.
+# This file fills the gaps.
+
+# Python virtual envs (cover both naming conventions)
+.venv/
+venv/
+env/
+ENV/
+
+# Python build artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+*.so
+
+# Test / linter caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+
+# Secrets - NEVER bake into image
+.env
+.env.local
+.env.*.local
+
+# Editor / OS noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Git metadata (already excluded by Railway, keep for safety on local docker build)
+.git/
+.gitignore
+
+# Local databases that might appear during dev
+*.sqlite-journal

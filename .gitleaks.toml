@@ -1,0 +1,14 @@
+title = "Bocconi AI Buddy secret scanning"
+
+[extend]
+useDefault = true
+
+[[rules]]
+id = "google-api-key-in-scraped-content"
+description = "Google API keys, including keys copied from public map embeds"
+regex = '''AIza[0-9A-Za-z_-]{35}'''
+
+[[rules]]
+id = "long-url-access-token"
+description = "Long access tokens in scraped URLs"
+regex = '''(?i)[?&](?:access_token|token|api_key|apikey|secret|signature)=[A-Za-z0-9_./%+=-]{24,}'''

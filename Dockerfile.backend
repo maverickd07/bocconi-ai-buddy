@@ -1,0 +1,21 @@
+# Dev Dockerfile for the FastAPI backend.
+# Used by docker-compose.dev.yml. The source code is bind-mounted as a volume,
+# so edits on the host are reflected immediately (uvicorn --reload).
+
+FROM python:3.13-slim
+
+# uv: fast Python package manager (installs deps from pyproject.toml)
+RUN pip install --no-cache-dir uv
+
+WORKDIR /app
+
+# Install dependencies first (cached layer if pyproject doesn't change)
+COPY backend/pyproject.toml backend/uv.lock* ./
+RUN uv sync --no-install-project || uv sync || true
+
+# Source code is bind-mounted at runtime; this COPY is just a fallback
+COPY backend/ ./
+
+EXPOSE 8000
+
+CMD ["uv", "run", "uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000", "--reload"]

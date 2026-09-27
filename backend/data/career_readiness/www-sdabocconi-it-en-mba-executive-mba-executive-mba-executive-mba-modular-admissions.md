@@ -1,0 +1,238 @@
+---
+verticale: career_readiness
+language: en
+source_url: https://www.sdabocconi.it/en/mba-executive-mba/executive-mba/executive-mba-modular/admissions/
+last_updated: '2026-05-02'
+title: EMBA Modular - Admissions | SDA Bocconi
+token_estimate: 4031
+---
+
+Executive MBA Modular
+
+[Apply Now](https://apply.sdabocconi.it/en_US/courses/course/18-emba-executive-mba) [Download brochure](https://www.sdabocconi.it/en/mba-executive-mba/executive-mba/executive-mba-modular/downloadbrochure/) [Open wishlist form](https://www.sdabocconi.it/en/mba-executive-mba/executive-mba/executive-mba-modular/wishlist/)
+
+Admissions
+
+# Selection and admission process
+
+Our EMBA admissions process is designed to select a highly qualified and motivated class, bringing together diverse talents to foster a dynamic and stimulating learning environment. We don’t just assess whether you are the right fit for the Executive MBA—we also want to ensure that the EMBA aligns with your expectations.
+
+The selection process involves a holistic evaluation of your application materials, along with other key factors such as professional experience, leadership potential, and personal drive. Through this rigorous approach, we aim to create a class of outstanding individuals who will benefit from the program—not only to achieve their career goals and personal aspirations but also to enrich the learning experience of their peers.
+
+**DEADLINES**
+
+**Tuition waivers**
+
+1st round: 4 May 2026
+
+2nd round: 9 July 2026
+
+3rd round (residual places): 25 August 2026
+
+**Application**
+
+25 August 2026
+
+![classe EMBA](https://www.sdabocconi.it/_next/image/?url=https%3A%2F%2Fsda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com%2Fs3fs-public%2F2025-11%2Femba_admissions_1500.jpg&w=3840&q=90&dpl=dpl_EgyAUeGYW1L1ERS2WGuDkM3HLa8o)
+
+## Your next steps
+
+- ![attach](https://sda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com/s3fs-public/2025-09/attach.svg?v=1757950938)
+
+### 1\. Online application form
+
+- ![Lectures](https://sda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com/s3fs-public/2025-09/lectures.svg?v=1757431641)
+
+### 2\. Detailed CV / Resume
+
+- ![Track specialistici](https://sda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com/s3fs-public/2025-09/track_specialistici.svg?v=1757511288)
+
+### 3\. Degree certificate & transcript
+
+- ![badge](https://sda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com/s3fs-public/2025-09/badge.svg?v=1758028016)
+
+### 4\. TOEFL, IELTS, CPE, PTE Academic
+
+- ![Business case](https://sda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com/s3fs-public/2025-09/business_case.svg?v=1757431552)
+
+### 5\. SDA test or GMAT
+
+- ![Testimonianze](https://sda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com/s3fs-public/2025-08/testimonianze.svg?v=1756394251)
+
+### 6\. Interview
+
+## What we need from you
+
+The following documents must be uploaded to the relevant section of the Application portal and submitted to the Admissions team:
+
+### Degree Certificate
+
+### Professional experience, detailed CV
+
+### Proficiency in English
+
+### Sponsoring company application
+
+### Additional materials required
+
+### SDA test
+
+### Interview
+
+## Admissions results
+
+As soon as the selection process is completed, you will receive a formal letter from the Admissions committee notifying you of the decision. Selection results are never communicated by telephone. All decisions made by the Admissions committee are final.
+
+The selection process will result in one of the following outcomes:
+
+- **Admission:** You will receive the official admission letter and participation contract. You must confirm your participation by the deadline specified by the Admissions committee.
+
+If all available spots have been filled, the school may place you on a waiting list or offer admission for the following edition.
+
+Admission to the program is valid for the year the application is submitted. However, you can request deferment for the following year, but approval of deferment is on a case-by-case decision by the Admissions committee.
+
+- **Non-admission:** Our selection process evaluates each candidate’s individual profile while also considering the overall composition of the EMBA class. Although we recognize the significant effort each candidate invests in the selection process, we do not provide personalized feedback to non-admitted candidates
+
+## How to apply
+
+The online application for the Executive MBA Modular (2026-2028 edition) is available exclusively online.
+
+**Please note that the application portal is a separate platform, so your SDA Bocconi website (www.sdabocconi.it) credentials cannot be used. Please proceed with a new registration.**
+
+- All required documents must be uploaded to the relevant section of the Application portal and submitted to the Admissions team.
+- Applicants may track the receipt of their application and monitor their application status directly through the online application.
+- Additional documents can be uploaded after the initial application submission.
+
+![Contattaci](https://www.sdabocconi.it/_next/image/?url=https%3A%2F%2Fsda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com%2Fs3fs-public%2Fstyles%2Fcrop5x4%2Fpublic%2F2025-01%2Fcontattaci.jpg%3Fv%3D1756299857&w=2048&q=90&dpl=dpl_EgyAUeGYW1L1ERS2WGuDkM3HLa8o)
+
+## Contact us
+
+For further clarification on individual applications, please contact the Admissions team:
+
+[+39 02 5836 3176 / 3074](tel: +390258363176) [admissions.emba@sdabocconi.it](mailto:admissions.emba@sdabocconi.it)
+
+## We look for highly motivated candidates with well-defined goals
+
+Executive MBA Applications are reviewed on a rolling basis during the following period: **April - September 2026 for the EMBA Modular (2026-2028 edition).**
+
+**We encourage early application to maximize your chances for admission.**
+
+The entire evaluation process typically takes up to **eight weeks** from the completion of all stages. During the selection process, the school evaluates applications and awards scholarships/exemptions to deserving candidates who have submitted a formal request.
+
+Admitted candidates must confirm their participation by the deadline specified by the Admissions team. Results will be communicated in writing to all candidates. Full details regarding the selection process and the required documentation can be found in the application form.
+
+Candidates are asked to indicate their preferred Executive MBA format in the online application. The school reserves the right to cancel a program if the number of qualified applications is insufficient to maintain the classroom’s quality standards. In such cases, candidates will be informed of their program allocation based on the preferences indicated in their application.
+
+[Go to fees and expenses](https://www.sdabocconi.it/en/mba-executive-mba/executive-mba/executive-mba-modular/fees-and-scholarships/) [Go to scholarships and tuition waivers](https://www.sdabocconi.it/en/mba-executive-mba/executive-mba/executive-mba-modular/fees-and-scholarships/#scholarships)
+
+Meet the team
+
+## Guidance, Recruitment & Admissions
+
+A dedicated group of professionals is here to support you throughout your decision-making process. Our **Guidance & Recruitment team** will meet you at events in Italy and abroad to guide you through your options, while our **Admissions team** will assess and select your profile, accompanying you through the selection and admission process.
+
+- Rossana Camera
+
+Head of Guidance, Recruitment & Admissions
+
+![camera.jpg](https://www.sdabocconi.it/_next/image/?url=https%3A%2F%2Fsda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com%2Fs3fs-public%2Fstyles%2Fcrop1x1%2Fpublic%2F2025-02%2Fcamera.jpg%3Fv%3D1739786315&w=384&q=90&dpl=dpl_EgyAUeGYW1L1ERS2WGuDkM3HLa8o)
+
+### Guidance & Recruitment
+
+- Giorgia Bava
+
+Head of Guidance & Recruitment
+
+![giorgia_bava_cv.jpg](https://www.sdabocconi.it/_next/image/?url=https%3A%2F%2Fsda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com%2Fs3fs-public%2Fstyles%2Fcrop1x1%2Fpublic%2Fupl%2Fentities%2Fspeaker%2Fgiorgia_bava_cv.jpg%3Fv%3D1760467702&w=1920&q=90&dpl=dpl_EgyAUeGYW1L1ERS2WGuDkM3HLa8o)
+
+- Diana Mendonça Ajuz
+
+![Diana_Mendonca_Ajuz_cv.jpg](https://www.sdabocconi.it/_next/image/?url=https%3A%2F%2Fsda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com%2Fs3fs-public%2Fstyles%2Fcrop1x1%2Fpublic%2Fupl%2Fentities%2Fpage%2FDiana_Mendonca_Ajuz_cv.jpg%3Fv%3D1760464004&w=1920&q=90&dpl=dpl_EgyAUeGYW1L1ERS2WGuDkM3HLa8o)
+
+- Rebeca Nicole Campos Pacas
+
+![Rebeca_Nicole_Campos_Pacas_cv.jpg](https://www.sdabocconi.it/_next/image/?url=https%3A%2F%2Fsda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com%2Fs3fs-public%2Fstyles%2Fcrop1x1%2Fpublic%2Fupl%2Fentities%2Fspeaker%2FRebeca_Nicole_Campos_Pacas_cv.jpg%3Fv%3D1760610639&w=1920&q=90&dpl=dpl_EgyAUeGYW1L1ERS2WGuDkM3HLa8o)
+
+- Sara Della Torre
+
+![Sara della Torre](https://www.sdabocconi.it/_next/image/?url=https%3A%2F%2Fsda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com%2Fs3fs-public%2Fstyles%2Fcrop1x1%2Fpublic%2F2026-03%2Fsara_della_torre_cv.jpg%3Fv%3D1776092408&w=1920&q=90&dpl=dpl_EgyAUeGYW1L1ERS2WGuDkM3HLa8o)
+
+- Priscilla Gatto
+
+![Priscilla_Gatto_cv.jpeg](https://www.sdabocconi.it/_next/image/?url=https%3A%2F%2Fsda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com%2Fs3fs-public%2Fstyles%2Fcrop1x1%2Fpublic%2Fupl%2Fentities%2Fevent%2FPriscilla_Gatto_cv.jpeg%3Fv%3D1760467526&w=1920&q=90&dpl=dpl_EgyAUeGYW1L1ERS2WGuDkM3HLa8o)
+
+- Tyler Henderson
+
+![Henderson.jpeg](https://www.sdabocconi.it/_next/image/?url=https%3A%2F%2Fsda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com%2Fs3fs-public%2Fstyles%2Fcrop1x1%2Fpublic%2Fupl%2Fentities%2Fpage%2FHenderson.jpeg%3Fv%3D1760467520&w=1200&q=90&dpl=dpl_EgyAUeGYW1L1ERS2WGuDkM3HLa8o)
+
+- Valentina Mardegan
+
+![valentina_mardegan.png](https://www.sdabocconi.it/_next/image/?url=https%3A%2F%2Fsda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com%2Fs3fs-public%2Fstyles%2Fcrop1x1%2Fpublic%2Fupl%2Fentities%2Fevent%2Fadmissions%2Fvalentina_mardegan.png%3Fv%3D1760467669&w=1200&q=90&dpl=dpl_EgyAUeGYW1L1ERS2WGuDkM3HLa8o)
+
+- Tommaso Panzavolta
+
+![Tommaso_Panzavolta_cv.jpg](https://www.sdabocconi.it/_next/image/?url=https%3A%2F%2Fsda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com%2Fs3fs-public%2Fstyles%2Fcrop1x1%2Fpublic%2Fupl%2Fentities%2Fprofessor%2Fadmissions-service%2FTommaso_Panzavolta_cv.jpg%3Fv%3D1760465652&w=1920&q=90&dpl=dpl_EgyAUeGYW1L1ERS2WGuDkM3HLa8o)
+
+- Marta Tettamanti
+
+![marta_tettamanti.jpg](https://www.sdabocconi.it/_next/image/?url=https%3A%2F%2Fsda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com%2Fs3fs-public%2Fstyles%2Fcrop1x1%2Fpublic%2F2026-01%2Fmarta_tettamanti.jpg%3Fv%3D1769519217&w=2048&q=90&dpl=dpl_EgyAUeGYW1L1ERS2WGuDkM3HLa8o)
+
+- Summer Wu
+
+![summer-wu](https://www.sdabocconi.it/_next/image/?url=https%3A%2F%2Fsda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com%2Fs3fs-public%2Fstyles%2Fcrop1x1%2Fpublic%2F2025-02%2Fwu.jpg%3Fv%3D1769185240&w=640&q=90&dpl=dpl_EgyAUeGYW1L1ERS2WGuDkM3HLa8o)
+
+### Admissions
+
+- Alessandra Gazzola
+
+Head of International Full-Time Masters Admissions
+
+![Alessandra Gazzola](https://www.sdabocconi.it/_next/image/?url=https%3A%2F%2Fsda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com%2Fs3fs-public%2Fstyles%2Fcrop1x1%2Fpublic%2F2026-01%2Falessandra_gazzola_cv.jpg%3Fv%3D1769705007&w=750&q=90&dpl=dpl_EgyAUeGYW1L1ERS2WGuDkM3HLa8o)
+
+- Emma Buatier de Mongeot
+
+![Emma Buatier de Mongeot](https://www.sdabocconi.it/_next/image/?url=https%3A%2F%2Fsda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com%2Fs3fs-public%2Fstyles%2Fcrop1x1%2Fpublic%2F2026-02%2Femma_buatier_de_mongeot_cv.jpg%3Fv%3D1771249962&w=1920&q=90&dpl=dpl_EgyAUeGYW1L1ERS2WGuDkM3HLa8o)
+
+- Gaia Laudicina Rossi
+
+![Gaia_Laudicina_Rossi_cv.jpg](https://www.sdabocconi.it/_next/image/?url=https%3A%2F%2Fsda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com%2Fs3fs-public%2Fstyles%2Fcrop1x1%2Fpublic%2Fupl%2Fentities%2Fpage%2FGaia_Laudicina_Rossi_cv.jpg%3Fv%3D1760462980&w=1920&q=90&dpl=dpl_EgyAUeGYW1L1ERS2WGuDkM3HLa8o)
+
+- Giusy Marchesano
+
+![Marchesano.jpeg](https://www.sdabocconi.it/_next/image/?url=https%3A%2F%2Fsda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com%2Fs3fs-public%2Fstyles%2Fcrop1x1%2Fpublic%2F2026-01%2Fgiusy_marchesano_cv.jpg%3Fv%3D1769185393&w=640&q=90&dpl=dpl_EgyAUeGYW1L1ERS2WGuDkM3HLa8o)
+
+- Anna Nava
+
+![Anna Rava](https://www.sdabocconi.it/_next/image/?url=https%3A%2F%2Fsda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com%2Fs3fs-public%2Fstyles%2Fcrop1x1%2Fpublic%2F2025-09%2Fanna_nava_cv.jpg%3Fv%3D1758030446&w=1920&q=90&dpl=dpl_EgyAUeGYW1L1ERS2WGuDkM3HLa8o)
+
+- Viviana Puricelli
+
+![Puricelli.jpg](https://www.sdabocconi.it/_next/image/?url=https%3A%2F%2Fsda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com%2Fs3fs-public%2Fstyles%2Fcrop1x1%2Fpublic%2Fupl%2Fentities%2Fprofessor%2Fadmissions-service%2FPuricelli.jpg%3Fv%3D1769185071&w=640&q=90&dpl=dpl_EgyAUeGYW1L1ERS2WGuDkM3HLa8o)
+
+- Lorenzo Starita
+
+![lorenzo_starita.png](https://www.sdabocconi.it/_next/image/?url=https%3A%2F%2Fsda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com%2Fs3fs-public%2Fstyles%2Fcrop1x1%2Fpublic%2Fupl%2Fentities%2Fpage%2Florenzo_starita.png%3Fv%3D1760466066&w=1080&q=90&dpl=dpl_EgyAUeGYW1L1ERS2WGuDkM3HLa8o)
+
+- Tiziana Tonelli
+
+![Tiziana Tonelli](https://www.sdabocconi.it/_next/image/?url=https%3A%2F%2Fsda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com%2Fs3fs-public%2Fstyles%2Fcrop1x1%2Fpublic%2F2025-09%2Ftiziana_tonelli_cv.jpg%3Fv%3D1758030515&w=1920&q=90&dpl=dpl_EgyAUeGYW1L1ERS2WGuDkM3HLa8o)
+
+## International Student Care
+
+At SDA Bocconi, we care about our students – not just in their studies but every aspect of life on campus. This care is particularly important for the experience of our numerous international participants. Our International Student Care services guarantee you will have a smooth and worry-free time at SDA Bocconi. Reach out to Alice and Valentina at [studentcare@sdabocconi.it](mailto:studentcare@sdabocconi.it)
+
+- Alice Dealessi
+
+![Alice Dealessi](https://www.sdabocconi.it/_next/image/?url=https%3A%2F%2Fsda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com%2Fs3fs-public%2Fstyles%2Fcrop1x1%2Fpublic%2F2025-12%2Falice_dealessi_cv.jpg%3Fv%3D1766404602&w=1920&q=90&dpl=dpl_EgyAUeGYW1L1ERS2WGuDkM3HLa8o)
+
+- Valentina Grassi
+
+![Valentina Grassi](https://www.sdabocconi.it/_next/image/?url=https%3A%2F%2Fsda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com%2Fs3fs-public%2Fstyles%2Fcrop1x1%2Fpublic%2F2025-12%2Fvalentina_grassi_cv.jpg%3Fv%3D1766404516&w=1920&q=90&dpl=dpl_EgyAUeGYW1L1ERS2WGuDkM3HLa8o)
+
+Want to know more about Executive MBA?
+
+[Contact us](https://www.sdabocconi.it/en/mba-executive-mba/executive-mba/executive-mba-modular/requestinformation/) [Download brochure](https://www.sdabocconi.it/en/mba-executive-mba/executive-mba/executive-mba-modular/downloadbrochure/)
+
+![app](https://www.sdabocconi.it/_next/image/?url=https%3A%2F%2Fsda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com%2Fs3fs-public%2F2024-12%2Fapp.png%3Fv%3D1733579157&w=828&q=90&dpl=dpl_EgyAUeGYW1L1ERS2WGuDkM3HLa8o)
+
+![Merchandising](https://www.sdabocconi.it/_next/image/?url=https%3A%2F%2Fsda-website-prod-sdawebsiteprodbucketpublic693d05b-w3mwb4fo9x9p.s3.eu-south-1.amazonaws.com%2Fs3fs-public%2F2024-12%2Fsda-bocconi-merchandising.png%3Fv%3D1734604731&w=640&q=90&dpl=dpl_EgyAUeGYW1L1ERS2WGuDkM3HLa8o)

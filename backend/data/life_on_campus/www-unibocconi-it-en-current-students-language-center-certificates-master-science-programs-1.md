@@ -1,0 +1,30 @@
+---
+verticale: life_on_campus
+language: en
+source_url: https://www.unibocconi.it/en/current-students/language-center/certificates/master-science-programs-1
+last_updated: '2026-05-02'
+title: Master of Science Programs | Bocconi University
+token_estimate: 345
+---
+
+Language Center
+
+[Overview](https://www.unibocconi.it/en/current-students/language-center)
+
+# Master of Science Programs
+
+Japanese (as additional exam)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Code** | **Certification Level** | **Level to be recorded in the study plan** | **Type of Students** |
+| 20738 | A1/A2 general<br>A2/B1 general | Depending on the score obtained | 2nd year students, who have already passed the exams of their Degree Program first two semesters |
+
+We remind you that the acceptance of the language certification is subject to the  fulfillment of the applied rules and to the possibility to verify online the authenticity of the certification on the date of the language certification recognition (complete and correct one) submission.
+
+**CONVERSION TABLES**:
+
+- [JLPT N5 level A1/A2](https://www.unibocconi.it/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/current+students/services/language+center/certificates/jlpt+n5+level+a1a2%2C+taken+from+01+september+2019)
+- [JLPT N4 level A2/B1](https://www.unibocconi.it/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/current+students/services/language+center/certificates/jlpt+n4+level+a2b1-taken+from+01+september+2019)
+
+[More…](https://www.unibocconi.it/en/current-students/language-center/certificates/master-science-programs-1#addtoany "Show all")
